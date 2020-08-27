@@ -6,7 +6,7 @@ Troy_Daniel 2019-11-19 22:41	Tue
 
 # Pre-words
 
-Thought the best efficiency will obtained with string praser, I don't want to
+Thought the best efficiency will obtained with string parser, I don't want to
 implement it this way.
 
 This code is implement with regex, with the platform Visual Studio 2019. You
