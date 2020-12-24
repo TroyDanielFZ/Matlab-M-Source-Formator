@@ -16,7 +16,7 @@ can just clone this project, and open with VS2019, and then build it.
 # Post-words
 
 I don't plan to maintain this code, at least no-frequently update will be
-avaliable.  This tool is mainly for self-usage.
+available.  This tool is mainly for self-usage.
 
 I hope this tool will help somebody else, and if so, please email me:
 Troy_Daniel@163.com
