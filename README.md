@@ -12,6 +12,7 @@ implement it this way.
 This code is implement with regex, with the platform Visual Studio 2019. You
 can just clone this project, and open with VS2019, and then build it.
 
+License: [MIT license](https://opensource.org/licenses/MIT).
 
 # Post-words
 
